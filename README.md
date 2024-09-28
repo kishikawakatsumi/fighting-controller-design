@@ -1,4 +1,4 @@
-# fighting-controller-design
+# Fighting Controller Design
 
 ## Bill of Materials
 
@@ -10,6 +10,7 @@
 ### PCB
 
 - Brook P5 PLUS Fighting Board https://www.brookaccessory.com/products/p5plus/index.html
+- USB Receptacle Connector https://booth.pm/ja/items/5533006
 - 4x M3x5mm screws https://amzn.to/3TOoKwR
 - 4x M3x0.5mm nuts https://amzn.to/4eKbilX
 - Double-coated adhesive tape https://amzn.to/4dopuzK
