@@ -12,6 +12,7 @@
 - Brook P5 PLUS Fighting Board https://www.brookaccessory.com/products/p5plus/index.html
 - 4x M3x5mm screws https://amzn.to/3TOoKwR
 - 4x M3x0.5mm nuts https://amzn.to/4eKbilX
+- Double-coated adhesive tape https://amzn.to/4dopuzK
 
 ## How to Assemble
 
