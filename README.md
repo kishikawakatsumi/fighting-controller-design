@@ -4,8 +4,8 @@
 
 ### Case
 
-- 12 x M4x10mm screws https://amzn.to/3N3qf6M
-- 12 x M4x6mm heat-set insert https://amzn.to/3TNvuuS
+- 12x M4x10mm screws https://amzn.to/3N3qf6M
+- 12x M4x6mm heat-set insert https://amzn.to/3TNvuuS
 
 ### PCB
 
