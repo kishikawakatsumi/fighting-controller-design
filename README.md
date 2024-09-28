@@ -1,5 +1,18 @@
 # fighting-controller-design
 
+## Bill of Materials
+
+### Case
+
+- 12 x M4x10mm screws https://amzn.to/3N3qf6M
+- 12 x M4x6mm heat-set insert https://amzn.to/3TNvuuS
+
+### PCB
+
+- Brook P5 PLUS Fighting Board https://www.brookaccessory.com/products/p5plus/index.html
+- 4x M3x5mm screws https://amzn.to/3TOoKwR
+- 4x M3x0.5mm nuts https://amzn.to/4eKbilX
+
 ## PCB Mount
 
 ### 3D Printing Model
