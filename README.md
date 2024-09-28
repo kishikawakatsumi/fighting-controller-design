@@ -13,13 +13,15 @@
 - 4x M3x5mm screws https://amzn.to/3TOoKwR
 - 4x M3x0.5mm nuts https://amzn.to/4eKbilX
 
-## PCB Mount
+## How to Assemble
 
-### 3D Printing Model
+### PCB Mount
+
+#### 3D Printing Model
 
 <img src="https://github.com/user-attachments/assets/52fef2a9-87e1-404f-91b4-6bf07dd7efaf" width="400"/>
 
-### 3D Printed Object
+#### 3D Printed Object
 
 <img src="https://github.com/user-attachments/assets/2916a8cc-492c-47e7-a127-f92f1deb8f41" width="400"/>
 
