@@ -7,6 +7,12 @@
 - 12x M4x10mm screws https://amzn.to/3N3qf6M
 - 12x M4x6mm heat-set insert https://amzn.to/3TNvuuS
 
+### Buttons
+- 3x 24mm buttons for movement action
+- 1x 30mm button for movement action
+- 10x 24mm buttons for attacking action
+- 4x 24mm buttons for option buttons
+
 ### PCB
 
 - Brook P5 PLUS Fighting Board https://www.brookaccessory.com/products/p5plus/index.html
