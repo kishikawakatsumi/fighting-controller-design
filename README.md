@@ -35,6 +35,12 @@ To customize the top panel with an illustration, laser cut the acrylic panel.
 
 Create the parts of the support column with a 3D printer.
 
+#### 3D Printing Model
+
+<img src="https://github.com/user-attachments/assets/f5744ad1-0e3e-4b0f-8815-c605c95347b2" width="400"/>
+
+#### 3D Printed Object
+
 <img src="https://github.com/user-attachments/assets/78c2c45d-a5e5-4e0c-a6f2-57e3c3da0ef1" width="400"/>
 
 <img src="https://github.com/user-attachments/assets/6fe17ae5-8b84-4a06-80d7-7fc84afff1ea" width="400"/>
