@@ -23,6 +23,56 @@
 
 ## How to Assemble
 
+The top panel, bottom panel, and side parts are laser cut from MDF.
+
+<img src="https://github.com/user-attachments/assets/f68f6b1e-9fb1-4a82-b977-4972eabca55b" width="400"/>
+
+<img src="https://github.com/user-attachments/assets/c6e37b29-56f6-4ead-8f03-0786948f54b2" width="400"/>
+
+To customize the top panel with an illustration, laser cut the acrylic panel.
+
+<img src="https://github.com/user-attachments/assets/cb5d4cf6-16f0-4517-8979-408d970f3afa" width="400"/>
+
+Create the parts of the support column with a 3D printer.
+
+<img src="https://github.com/user-attachments/assets/78c2c45d-a5e5-4e0c-a6f2-57e3c3da0ef1" width="400"/>
+
+<img src="https://github.com/user-attachments/assets/6fe17ae5-8b84-4a06-80d7-7fc84afff1ea" width="400"/>
+
+<img src="https://github.com/user-attachments/assets/cbe213db-e0b1-4a1a-af6b-f0dcb31c7f14" width="400"/>
+
+Attach the button to the top panel.
+
+<img src="https://github.com/user-attachments/assets/064d0c1e-e384-4beb-81a2-59c2f69e7849" width="400"/>
+
+<img src="https://github.com/user-attachments/assets/d141ad52-e178-477f-ae8e-3f90f6989dae" width="400"/>
+
+<img src="https://github.com/user-attachments/assets/78054d81-0cf6-4a39-a4bd-293d5081eb5b" width="400"/>
+
+<img src="https://github.com/user-attachments/assets/56650f1f-d8f2-453b-b94f-804bde5005ef" width="400"/>
+
+Wire the button to the board.
+
+<img src="https://github.com/user-attachments/assets/8a56d688-72f5-44f1-9f9b-16ec54504c36" width="400"/>
+
+<img src="https://github.com/user-attachments/assets/6afabcf8-3df6-43c6-b624-aac98a4d1c72" width="400"/>
+
+Attach the side parts to the enclosure with adhesive.
+
+<img src="https://github.com/user-attachments/assets/388ebe5d-35f5-47d2-b1ba-944167437dd0" width="400"/>
+
+<img src="https://github.com/user-attachments/assets/58e47166-3e35-4ccf-b4dd-a4d03a8a33d5" width="400"/>
+
+Install the top panel.
+
+<img src="https://github.com/user-attachments/assets/6107b1df-d918-4186-8940-2c1ecf98d453" width="400"/>
+
+<img src="https://github.com/user-attachments/assets/df3c7484-b013-4ea7-a3ca-1cb0e09be5d9" width="400"/>
+
+<img src="https://github.com/user-attachments/assets/6c641e89-405f-4cfc-b4bc-390d40f43605" width="400"/>
+
+<img src="https://github.com/user-attachments/assets/4d9181a4-7c85-4274-892e-576a23006973" width="400"/>
+
 ### PCB Mount
 
 #### 3D Printing Model
