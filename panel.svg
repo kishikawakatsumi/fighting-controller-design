@@ -24,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.47594065"
-     inkscape:cx="1090.4721"
-     inkscape:cy="464.34362"
+     inkscape:cx="697.56597"
+     inkscape:cy="518.97227"
      inkscape:window-width="1728"
      inkscape:window-height="1051"
      inkscape:window-x="0"
@@ -251,7 +251,8 @@
   <g
      inkscape:label="Top"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     sodipodi:insensitive="true">
     <rect
        style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1"
        id="rect1"
