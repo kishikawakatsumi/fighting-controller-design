@@ -23,15 +23,16 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.47594065"
-     inkscape:cx="697.56597"
-     inkscape:cy="518.97227"
+     inkscape:zoom="0.48083"
+     inkscape:cx="1151.1345"
+     inkscape:cy="680.07404"
      inkscape:window-width="1728"
      inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="38"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer2"
+     showgrid="false" />
   <defs
      id="defs1" />
   <g
@@ -192,61 +193,61 @@
        ry="2"
        inkscape:label="Frame" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-8-5-0-0-80-59-1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352613;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-8-5-0-0-80-38-9"
        cx="580.88361"
        cy="219.29961"
        inkscape:label="ScrewM4"
-       r="2.3235126" />
+       r="2.1236935" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-8-5-0-0-80-5-4"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352613;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-8-5-0-0-80-38-41"
        cx="447.53802"
        cy="219.29961"
        inkscape:label="ScrewM4"
-       r="2.3235126" />
+       r="2.1236935" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-8-5-0-0-80-37-8"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352613;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-8-5-0-0-80-38-40"
        cx="314.19241"
        cy="219.29961"
        inkscape:label="ScrewM4"
-       r="2.3235126" />
+       r="2.1236935" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-8-5-0-0-80-3-8"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352613;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-8-5-0-0-80-38-75"
        cx="580.88361"
        cy="118.10001"
        inkscape:label="ScrewM4"
-       r="2.3235126" />
+       r="2.1236935" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-8-5-0-0-80-84-7"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352613;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-8-5-0-0-80-38-09"
        cx="314.19241"
        cy="118.1"
        inkscape:label="ScrewM4"
-       r="2.3235126" />
+       r="2.1236935" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-8-5-0-0-80-8-1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352613;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-8-5-0-0-80-38-31"
        cx="580.88361"
        cy="16.900404"
        inkscape:label="ScrewM4"
-       r="2.3235126" />
+       r="2.1236935" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-8-5-0-0-80-7-9"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352613;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-8-5-0-0-80-38-4"
        cx="447.53802"
        cy="16.900404"
        inkscape:label="ScrewM4"
-       r="2.3235126" />
+       r="2.1236935" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-8-5-0-0-80-31"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352613;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-8-5-0-0-80-38-3"
        cx="314.16895"
        cy="16.876936"
        inkscape:label="ScrewM4"
-       r="2.3235126" />
+       r="2.1236935" />
   </g>
   <g
      inkscape:label="Top"
@@ -279,116 +280,116 @@
        y="7.0763898"
        inkscape:label="Construction" />
     <ellipse
-       style="fill:none;stroke:#ff0000;stroke-width:0.352857;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-46-6-9-4"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352726;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-46-6-9-4-4"
        cx="141.41515"
        cy="137.45796"
-       rx="15.323571"
-       ry="15.323572"
+       rx="15.123637"
+       ry="15.123638"
        inkscape:label="Button30" />
     <ellipse
-       style="fill:none;stroke:#ff0000;stroke-width:0.3529;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-1-3-32-0-5-58-4"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352699;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-1-3-32-0-80-5-18"
        cx="114.20676"
        cy="119.22383"
-       rx="12.32355"
-       ry="12.323551"
+       rx="12.123651"
+       ry="12.123652"
        inkscape:label="Button24" />
     <ellipse
-       style="fill:none;stroke:#ff0000;stroke-width:0.3529;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-1-3-32-0-5-58-5"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352699;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-1-3-32-0-80-5-6"
        cx="171.92963"
        cy="125.46974"
-       rx="12.32355"
-       ry="12.323551"
+       rx="12.123651"
+       ry="12.123652"
        inkscape:label="Button24" />
     <ellipse
-       style="fill:none;stroke:#ff0000;stroke-width:0.3529;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-1-3-32-0-5-2"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352699;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-1-3-32-0-80-5-8"
        cx="245.14049"
        cy="91.965271"
-       rx="12.32355"
-       ry="12.323551"
+       rx="12.123651"
+       ry="12.123652"
        inkscape:label="Button24" />
     <ellipse
-       style="fill:none;stroke:#ff0000;stroke-width:0.3529;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-1-3-32-0-5-9"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352699;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-1-3-32-0-80-5-17"
        cx="216.04736"
        cy="87.082535"
-       rx="12.32355"
-       ry="12.323551"
+       rx="12.123651"
+       ry="12.123652"
        inkscape:label="Button24" />
     <ellipse
-       style="fill:none;stroke:#ff0000;stroke-width:0.3529;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-1-3-32-0-5-58"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352699;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-1-3-32-0-80-5-5"
        cx="186.57503"
        cy="85.755516"
-       rx="12.32355"
-       ry="12.323551"
+       rx="12.123651"
+       ry="12.123652"
        inkscape:label="Button24" />
     <ellipse
-       style="fill:none;stroke:#ff0000;stroke-width:0.3529;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-1-3-32-0-5-8"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352699;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-1-3-32-0-80-5-7"
        cx="160.02142"
        cy="98.656815"
-       rx="12.32355"
-       ry="12.323551"
+       rx="12.123651"
+       ry="12.123652"
        inkscape:label="Button24" />
     <ellipse
-       style="fill:none;stroke:#ff0000;stroke-width:0.3529;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-1-3-32-0-5-5"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352699;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-1-3-32-0-80-5-32"
        cx="247.17065"
        cy="61.423405"
-       rx="12.32355"
-       ry="12.323551"
+       rx="12.123651"
+       ry="12.123652"
        inkscape:label="Button24" />
     <ellipse
-       style="fill:none;stroke:#ff0000;stroke-width:0.3529;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-1-3-32-0-5-7"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352699;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-1-3-32-0-80-5-4"
        cx="218.07756"
        cy="56.540672"
-       rx="12.32355"
-       ry="12.323551"
+       rx="12.123651"
+       ry="12.123652"
        inkscape:label="Button24" />
     <ellipse
-       style="fill:none;stroke:#ff0000;stroke-width:0.3529;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-1-3-32-0-5-38"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352699;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-1-3-32-0-80-5-1"
        cx="188.60521"
        cy="55.213634"
-       rx="12.32355"
-       ry="12.323551"
+       rx="12.123651"
+       ry="12.123652"
        inkscape:label="Button24" />
     <ellipse
-       style="fill:none;stroke:#ff0000;stroke-width:0.3529;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-1-3-32-0-5-3"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352699;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-1-3-32-0-80-5-2"
        cx="162.05159"
        cy="68.114929"
-       rx="12.32355"
-       ry="12.323551"
+       rx="12.123651"
+       ry="12.123652"
        inkscape:label="Button24" />
     <ellipse
-       style="fill:none;stroke:#ff0000;stroke-width:0.3529;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-1-3-32-0-5"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352699;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-1-3-32-0-80-5-3"
        cx="134.58649"
        cy="81.627686"
-       rx="12.32355"
-       ry="12.323551"
+       rx="12.123651"
+       ry="12.123652"
        inkscape:label="Button24" />
     <ellipse
-       style="fill:none;stroke:#ff0000;stroke-width:0.3529;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-1-3-32-0-8"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352699;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-1-3-32-0-80-5"
        cx="108.44543"
        cy="67.956703"
-       rx="12.32355"
-       ry="12.323551"
+       rx="12.123651"
+       ry="12.123652"
        inkscape:label="Button24" />
     <ellipse
-       style="fill:none;stroke:#ff0000;stroke-width:0.3529;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-1-3-32-0"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352699;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-1-3-32-0-80"
        cx="78.946335"
        cy="67.72625"
-       rx="12.32355"
-       ry="12.323551"
+       rx="12.123651"
+       ry="12.123652"
        inkscape:label="Button24" />
     <circle
        style="display:none;fill:none;stroke:#ff0000;stroke-width:0.352802;stroke-dasharray:none;stroke-opacity:1"
@@ -398,12 +399,12 @@
        inkscape:label="Construction"
        r="9.8235989" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-5-7"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352602;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-5-6-0"
        cx="115.101"
        cy="24.437544"
        inkscape:label="Button16"
-       r="8.3234758" />
+       r="8.1236992" />
     <circle
        style="display:none;fill:none;stroke:#ff0000;stroke-width:0.352802;stroke-dasharray:none;stroke-opacity:1"
        id="path26-1-0-7-3"
@@ -412,12 +413,12 @@
        inkscape:label="Construction"
        r="9.8235989" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-5-8"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352602;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-5-6-9"
        cx="93.100998"
        cy="24.437544"
        inkscape:label="Button16"
-       r="8.3234758" />
+       r="8.1236992" />
     <circle
        style="display:none;fill:none;stroke:#ff0000;stroke-width:0.352802;stroke-dasharray:none;stroke-opacity:1"
        id="path26-1-0-7"
@@ -426,12 +427,12 @@
        inkscape:label="Construction"
        r="9.8235989" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-5-4"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352602;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-5-6-2"
        cx="71.100998"
        cy="24.437544"
        inkscape:label="Button16"
-       r="8.3234758" />
+       r="8.1236992" />
     <circle
        style="display:none;fill:none;stroke:#ff0000;stroke-width:0.352802;stroke-dasharray:none;stroke-opacity:1"
        id="path26-1-0"
@@ -440,12 +441,12 @@
        inkscape:label="Construction"
        r="9.8235989" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-5"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352602;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-5-6"
        cx="49.100948"
        cy="24.437544"
        inkscape:label="Button16"
-       r="8.3234758" />
+       r="8.1236992" />
     <rect
        style="display:none;fill:none;stroke:#0000ff;stroke-width:0.352778;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect2-4"
@@ -455,12 +456,12 @@
        y="209.47559"
        inkscape:label="Construction" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-8-5-0-0-80-59"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352613;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-8-5-0-0-80-38-53"
        cx="283.59158"
        cy="219.29961"
        inkscape:label="ScrewM4"
-       r="2.3235126" />
+       r="2.1236935" />
     <rect
        style="display:none;fill:none;stroke:#0000ff;stroke-width:0.352778;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect2-04"
@@ -470,12 +471,12 @@
        y="209.47559"
        inkscape:label="Construction" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-8-5-0-0-80-5"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352613;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-8-5-0-0-80-38-0"
        cx="150.24602"
        cy="219.29961"
        inkscape:label="ScrewM4"
-       r="2.3235126" />
+       r="2.1236935" />
     <rect
        style="display:none;fill:none;stroke:#0000ff;stroke-width:0.352778;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect2-63"
@@ -485,12 +486,12 @@
        y="209.47559"
        inkscape:label="Construction" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-8-5-0-0-80-37"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352613;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-8-5-0-0-80-38-79"
        cx="16.900406"
        cy="219.29961"
        inkscape:label="ScrewM4"
-       r="2.3235126" />
+       r="2.1236935" />
     <rect
        style="display:none;fill:none;stroke:#0000ff;stroke-width:0.352778;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect2-00"
@@ -500,12 +501,12 @@
        y="108.27599"
        inkscape:label="Construction" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-8-5-0-0-80-3"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352613;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-8-5-0-0-80-38-71"
        cx="283.59158"
        cy="118.10001"
        inkscape:label="ScrewM4"
-       r="2.3235126" />
+       r="2.1236935" />
     <rect
        style="display:none;fill:none;stroke:#0000ff;stroke-width:0.352778;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect2-0"
@@ -515,12 +516,12 @@
        y="108.27599"
        inkscape:label="Construction" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-8-5-0-0-80-84"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352613;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-8-5-0-0-80-38-7"
        cx="16.900406"
        cy="118.1"
        inkscape:label="ScrewM4"
-       r="2.3235126" />
+       r="2.1236935" />
     <rect
        style="display:none;fill:none;stroke:#0000ff;stroke-width:0.352778;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect2-9"
@@ -530,12 +531,12 @@
        y="7.0763888"
        inkscape:label="Construction" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-8-5-0-0-80-8"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352613;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-8-5-0-0-80-38-5"
        cx="283.59158"
        cy="16.900406"
        inkscape:label="ScrewM4"
-       r="2.3235126" />
+       r="2.1236935" />
     <rect
        style="display:none;fill:none;stroke:#0000ff;stroke-width:0.352778;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect2-6"
@@ -545,12 +546,12 @@
        y="7.0763888"
        inkscape:label="Construction" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-8-5-0-0-80-7"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352613;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-8-5-0-0-80-38-2"
        cx="150.24602"
        cy="16.900406"
        inkscape:label="ScrewM4"
-       r="2.3235126" />
+       r="2.1236935" />
     <rect
        style="display:none;fill:none;stroke:#0000ff;stroke-width:0.352778;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect2"
@@ -560,11 +561,11 @@
        y="7.0529222"
        inkscape:label="Construction" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1"
-       id="path26-1-8-5-0-0-80"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352613;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-1-8-5-0-0-80-38"
        cx="16.876938"
        cy="16.876938"
        inkscape:label="ScrewM4"
-       r="2.3235126" />
+       r="2.1236935" />
   </g>
 </svg>
