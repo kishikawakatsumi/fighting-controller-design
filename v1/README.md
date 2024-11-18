@@ -1,4 +1,4 @@
-# Fighting Controller Design
+# Fighting Controller v1
 
 ## Bill of Materials
 
